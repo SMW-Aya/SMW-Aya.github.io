@@ -107,5 +107,5 @@ theme: cards
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: git@github.com:SMW-Aya/SMW-Aya.github.io.git
+  repository: https://github.com/SMW-Aya/SMW-Aya.github.io.git
   branch: main
